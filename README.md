@@ -18,6 +18,6 @@ $_pay attention to pre_trained models
 
 
 overfitting :
-l1 and l2 regularization
-dropout
-max_,in_normalization
+1-l1 and l2 regularization
+2-dropout
+3_max_,in_normalization
